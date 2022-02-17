@@ -459,9 +459,9 @@ Head to the building directly to the right of the Galactic Eterna building.
 
 Get Thief-TM from the the path to the north-east of the Team Galactic building. Cut trees to get to the building and the second Tree in the North East.
 - Heal team to full.
-- Teach Thief to Scyther over slot 4.
-- Teach Rock Smash to Scyther over slot 3.
-- Teach Grass Knot to Prinplup over Water Gun (slot 3).
+- Teach Rock Smash to Scyther over slot 3 (Feint). 
+- Teach Thief to Scyther over slot 4. (DoubleTeam) (^)
+- Teach Grass Knot to Prinplup over Water Gun (slot 3) (^).
 
 :::::trainer[Team Galactic Double]
   - Wing Attack Zubat / Bubble Beam Wurmple
@@ -542,12 +542,12 @@ Enter the contest hall, watch the cutscene, then head to the far south-east of H
     - Wing Attack
     :damage[Lv21 Wing Attack]{source="Scyther" offensive=true movePower=90 level=21 evs=0 type="Flying" healthThreshold=auto}
   :::::
-  :::::pokemon[Buizel]
+  :::::pokemon[Buizel / Grotle]
     - (Swap back to Scyther)
-    - Wing Attack
+    - Wing Attack (x2)
   :::::
-  :::::pokemon[Grotle]
-    - Wing Attack
+  :::::pokemon[Grotle / Buizel]
+    - Wing Attack (x2)
   :::::
 :::::::
 
